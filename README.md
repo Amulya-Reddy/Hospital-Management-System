@@ -77,9 +77,3 @@ Hospital-Management-System/
 │── README.md
 ```
 
-## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
